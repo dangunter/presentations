@@ -1,6 +1,5 @@
- ---
  
- ## UI / Documentation Presentaiton
+## UI / Documentation Presentaiton
 
 ---
 
@@ -8,7 +7,7 @@
 
 * Once the process models have been written, a plaform is needed for documenting the model, running the models, visualizing results, archiving results and tracking provanance.
 
---
+---
 
 ## Documentation
 
