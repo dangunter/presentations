@@ -1,22 +1,25 @@
- ---
- 
- ## UI / Documentation Presentaiton
+## UI / Documentation Presentation
 
 ---
 
 ## Introduction
 
-* Once the process models have been written, a plaform is needed for documenting the model, running the models, visualizing results, archiving results and tracking provanance.
+* Once the process models have been written, a platform is needed for:
+  - documenting the model
+  - running the models
+  - visualizing results
+  - archiving results
+  - tracking provenance
 
---
+---
 
 ## Documentation
 
-Two methods:
-  * Sphinx documentation
-  * Using the Jupyter notebook for model documentation
+* Two methods:
+  - Sphinx documentation
+  - Using the Jupyter notebook for model documentation
   
- ---
+---
  
  ## Model Execution
   * UI to assist
@@ -40,7 +43,7 @@ Two methods:
 
 ## Conclusion
   * Provides user-frindly features
-  * Excelent platform for model/workflow documentation
+  * Excellent platform for model/workflow documentation
   * Powerful Results tracking with DMF
   * Flexible framework
 
