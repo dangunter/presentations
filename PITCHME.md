@@ -15,7 +15,7 @@ Two methods:
   * Sphinx documentation
   * Using the Jupyter notebook for model documentation
   
- ---
+---
  
  ## Model Execution
   * UI to assist
